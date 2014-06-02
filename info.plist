@@ -26,6 +26,14 @@
 				<key>modifiersubtext</key>
 				<string>...as Markdown</string>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>A784E2E2-7760-4B78-A9F4-A754CDFDD534</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>...as Markdown</string>
+			</dict>
 		</array>
 	</dict>
 	<key>createdby</key>
@@ -95,6 +103,21 @@
 			<key>version</key>
 			<integer>0</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<true/>
+				<key>clipboardtext</key>
+				<string>![寿司ゆき:{query}](https://d1zd1v0cxnbx2w.cloudfront.net/images/sets/sushiyuki/{query}.png)</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>A784E2E2-7760-4B78-A9F4-A754CDFDD534</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>SUSHIYUKI(寿司ゆき) http://awayuki.net/sushiyuki/
@@ -110,6 +133,11 @@ Copyright (c) 2014 awayuki (CC BY-NC-ND 4.0)</string>
 		<dict>
 			<key>ypos</key>
 			<real>10</real>
+		</dict>
+		<key>A784E2E2-7760-4B78-A9F4-A754CDFDD534</key>
+		<dict>
+			<key>ypos</key>
+			<real>250</real>
 		</dict>
 		<key>AA02ECD3-5EB8-4CCA-8167-2818C4CC8887</key>
 		<dict>

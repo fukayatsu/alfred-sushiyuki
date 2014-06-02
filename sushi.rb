@@ -12,7 +12,7 @@ items = Dir.glob("sushiyuki_images/*.png").map { |file|
   sushi_name = File.basename(file, ".png")
   next if ARGV.first && !sushi_name.match(/#{ARGV.first}/)
   item_xml( arg: sushi_name, uid: sushi_name, path: file, title: sushi_name,
-            subtitle: "Copy url to clipboard" )
+            subtitle: "Enter to copy url to clipboard. (Cmd + Enter to copy as markdown.)" )
 }.compact.join
 
 puts "<?xml version='1.0'?><items>#{items}</items>"
