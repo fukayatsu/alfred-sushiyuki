@@ -1,7 +1,11 @@
 alfred-sushiyuki
 ================
 
-- [DOWNLOAD](https://github.com/fukayatsu/alfred-sushiyuki/releases)
+[![](https://cloud.githubusercontent.com/assets/1041857/3144506/036913f6-ea23-11e3-9cbf-ddce7fbe31fc.png)](https://cloud.githubusercontent.com/assets/1041857/3144506/036913f6-ea23-11e3-9cbf-ddce7fbe31fc.png)
+
+[![](https://cloud.githubusercontent.com/assets/1041857/3144505/034dc79a-ea23-11e3-9eb0-b2fe1f92e079.png)](https://cloud.githubusercontent.com/assets/1041857/3144505/034dc79a-ea23-11e3-9eb0-b2fe1f92e079.png)
+
+[DOWNLOAD](https://github.com/fukayatsu/alfred-sushiyuki/releases)
 
 # License
 
