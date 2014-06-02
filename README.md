@@ -1,13 +1,12 @@
 alfred-sushiyuki
 ================
 
-
-
+- [DOWNLOAD](https://github.com/fukayatsu/alfred-sushiyuki/releases)
 
 # License
 
-SUSHI-YUKI(寿司ゆき)
-Copyright (c) 2014 awayuki. All rights reserved.
+[SUSHIYUKI(寿司ゆき)](http://awayuki.net/sushiyuki/)
+Copyright (c) 2014 [awayuki](https://github.com/awayuki). (CC BY-NC-ND 4.0)
 
 
 Source code:
